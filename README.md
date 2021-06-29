@@ -3,7 +3,9 @@ Powerlevel10k Zsh Theme
 
 BASH Commands to Install
 
-sudo apt install zsh zsh-syntax-highlighting
+For Debian Based Systems - sudo apt install zsh zsh-syntax-highlighting
+
+For Arch Based Systems - sudo pacman -S zsh zsh-syntax-highlighting
 
 touch "$HOME/.cache/zshhistory"
 #-- Setup Alias in $HOME/zsh/aliasrc
