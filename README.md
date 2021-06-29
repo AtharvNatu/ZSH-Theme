@@ -1,6 +1,8 @@
 # ZSH-Theme
 Powerlevel10k Zsh Theme
 
+Install Provided Fonts then use the following commands
+
 BASH Commands to Install
 
 For Debian Based Systems - sudo apt install zsh zsh-syntax-highlighting
